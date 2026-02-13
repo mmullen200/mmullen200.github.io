@@ -87,7 +87,7 @@ export default (() => {
         <meta name="generator" content="Quartz" />
 
         {/* Plausible Analytics */}
-        <script async src="https://plausible.io/js/pa-AHgQ6QI8v2JXKQM0mstdA.js"></script>
+        <script async src="https://plausible.io/js/pa-D7VZQBKK1R8gBTI4LkSCK.js"></script>
         <script>
           {`window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};plausible.init()`}
         </script>
