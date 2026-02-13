@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: " | tech, AI, games, systems",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "michaelmullen.co",
     ignorePatterns: ["private", "templates", ".obsidian"],
