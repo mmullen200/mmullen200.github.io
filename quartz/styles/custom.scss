@@ -1,3 +1,13 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Hide the intermediate "blog" folder label in the sidebar,
+// showing post titles directly under the "Blog" header.
+.explorer-content .folder-container {
+  display: none;
+}
+
+.explorer-content .folder-outer > ul {
+  margin-left: 0;
+  padding-left: 0;
+  border-left: none;
+}
