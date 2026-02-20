@@ -39,7 +39,11 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Blog",
+      folderDefaultState: "open",
+      folderClickBehavior: "collapse",
+    }),
   ],
   right: [
     Component.Graph(),
@@ -63,7 +67,11 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Blog",
+      folderDefaultState: "open",
+      folderClickBehavior: "collapse",
+    }),
   ],
   right: [],
 }
