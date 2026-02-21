@@ -40,7 +40,6 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      title: "Blog",
       folderDefaultState: "open",
       folderClickBehavior: "collapse",
     }),
@@ -68,7 +67,6 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      title: "Blog",
       folderDefaultState: "open",
       folderClickBehavior: "collapse",
     }),
