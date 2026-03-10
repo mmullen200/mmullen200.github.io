@@ -1,5 +1,5 @@
 ---
-title: Your Second Brain: Obsidian and Claude Code
+title: "Your Second Brain: Obsidian and Claude Code"
 date: 2026-02-13
 draft: false
 tags:
