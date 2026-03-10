@@ -1,23 +1,29 @@
 ---
-title: Why Switch to Obsidian
+title: Your Second Brain: Obsidian and Claude Code
 date: 2026-02-13
-draft: "false"
+draft: false
 tags:
-  - Obsidian
+  - obsidian
   - ai
   - markdown
   - secondbrain
-  - Pkm
+  - pkm
 ---
-Just a few quick notes on why you should consider using Obsidian for notetaking, for building a second brain, for productivity.
+
+*If you're looking for a tool to capture your notes, keep track of your reading, and to take your writing to the next level, Obsidian paired with Claude Code is a game changer.*
 
 ![[Screenshot 2026-02-19 at 15.12.55.png]]
 
 ## What's So Special About Obsidian?
 
-You can [download Obsidian for free](https://obsidian.md/) for Mac, PC and for iOS. The first bit is the trickiest: Obsidian is just a framework where you can keep your notes. At the outset, there is no baked-in structure to get you off to the races. But if you can push past this initial *tabla rasa*, you can see just how powerful it is.
+ At first glance, Obsidian is just a place to dump your notes (You can [download Obsidian for free](https://obsidian.md/) for Mac. Get the free iOS app from the App Store. You won't see a carefully crafted experience that leads you by the nose like other slick notebook apps. But once you push past this initial *tabla rasa*, once you start setting up your environment, you'll see how powerful it is. The cult following of Obsidian comes from its popularity for building a Second Brain or a Personal OS. The philosophy is "files before apps." As you layer in more features to your personal system, the files keep their primacy as your personal "app" grows in utility and power. To name a few of its features:
+	- Easily tag and link your notes
+	- View your notes in tabs
+	- Killer builtin plugins like Bases, Canvas, Daily Notes, Graph View
 
-## First Off, Markdown Locally on Your Machine
+![[Screenshot 2026-03-10 at 17.10.23.png]]
+
+## The Simplicity, Portability and Power of Markdown
 
 One big selling point of Obsidian, from the beginning, has been the format of its notes: simple markdown. Markdown is a file form (.md) that is absolutely platform agnostic. Why? Because it's just plain text. You would use \*this is crazy\* to add italics: *this is crazy*. That's how markdown works, so you're not locked into a proprietary file name like .docx or .pdf. The notes you create today in Obsidian, you will have in 10 years. I'm sure you've had the experience where you lost old notes because they are locked away in some proprietary app.
 
