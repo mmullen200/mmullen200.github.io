@@ -82,6 +82,9 @@ export default (() => {
           </>
         )}
 
+        {cfg.baseUrl && fileData.slug !== "404" && (
+          <link rel="canonical" href={socialUrl} />
+        )}
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
