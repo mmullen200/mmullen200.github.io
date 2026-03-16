@@ -83,7 +83,7 @@ export default (() => {
         )}
 
         {cfg.baseUrl && fileData.slug !== "404" && (
-          <link rel="canonical" href={socialUrl} />
+          <link rel="canonical" href={socialUrl.replace(/\/index$/, "/")} />
         )}
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
